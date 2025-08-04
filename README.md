@@ -1,26 +1,26 @@
-<h1 align="center">👋 Hi, I'm Emmanuel Ramírez Romero</h1>
+<h1 align="center">👋 Hola, Soy Emmanuel Ramírez Romero</h1>
 
 <p align="center">
-  🚀 Data Scientist | Python • ML • Automation • Power BI  
-  🎓 Background in Mechatronics + Computer Systems | Based in Almoloya, Hidalgo 🇲🇽
+  🚀 Ciencia de datos | Python • ML • Automatización • Power BI  
+  🎓 Profesional en Mecatrónica y en Sistemas Computacionales | Ubicado en Almoloya, Hidalgo 🇲🇽
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mí
 
-• 🚀 I’m a **Data Scientist in training**, focused on real-world applications  
-• 🎓 Background in **Mechatronics Engineering** and **M.Sc. in Computer Systems**  
-• 🤖 I bridge **IT/OT systems**, working with data from PLCs, sensors, and dashboards  
-• 📈 Currently learning advanced ML, deployment, and real-time analytics  
-• 💬 Ask me about Python, Dashboards, Predictive Analytics, Data Cleaning, Computer Vision  
-• 📫 Reach me: [LinkedIn](https://linkedin.com/in/emmanuel-data-science) • emmanuel.mec@gmail.com  
+• 🚀 Soy **Científico de datos**, enfocado en aplicaciones reales  
+• 🎓 Estudié **Ingeniería en Mecatrónica** y **Maestría en Sistemas Computacionales**  
+• 🤖 Conecto **Sistemas IT/OT**, trabajando con datos de PLCs, sensores y dashboards  
+• 📈 Actualmente estoy aprendiendo ML avanzado, despliegue de modelos y analítica en tiempo real  
+• 💬 Pregúntame sobre Python, Dashboards, Analítica Predictiva, Limpieza de Datos, Visión por Computadora, Inteligencia Artificial  
+• 📫 Contáctame: [LinkedIn](https://linkedin.com/in/emmanuel-data-science) • emmanuel.mec@gmail.com  
 
 ---
 
-## ⚒️ Tech Stack
+## ⚒️ Tecnologías
 
-### 🧠 Languages, Databases & Data Science
+### 🧠 Lenguajes, Bases de Datos y Ciencia de Datos
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -32,7 +32,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
 
-### 📊 Visualization & Dashboards
+### 📊 Visualización y Dashboards
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
@@ -41,7 +41,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
 
-### 🔌 Automation, IoT & Dev
+### 🔌 Automatización, IoT y Desarrollo para la industria
 
 ![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=nodered&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C7053D?style=flat&logo=raspberrypi)
@@ -50,7 +50,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelRR-data-science&show_icons=true&theme=dark" width="47%" />
@@ -59,16 +59,17 @@
 
 ---
 
-## 💡 Interests
+## 💡 Intereses
 
-I’m especially passionate about applying data science to:
+Me apasiona especialmente aplicar la ciencia de datos en:
 
-- 🔧 **Industrial Operations**
-- 🔍 **Predictive Maintenance**
-- 📟 **Sensor Analytics**
-- 📈 **Business Optimization with AI**
-- 🌐 **Real-Time Dashboards and IT/OT Integration**
+
+- 📈 **Optimización de negocios con IA**
+- 🌐 **Dashboards en tiempo real e integración IT/OT**
+- 📟 **Analítica de sensores**
+- 🔧 **Operaciones industriales**
+- 🔍 **Mantenimiento predictivo**
 
 <p align="center">
-Thanks for visiting! Let’s build data-driven systems that actually connect to the real world ⚙️📊
+¡Gracias por tu visita! Creemos sistemas basados en datos que realmente se conecten con el mundo real ⚙️📊
 </p>
