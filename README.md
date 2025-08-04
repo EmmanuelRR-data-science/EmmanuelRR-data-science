@@ -13,7 +13,7 @@
 • 🎓 Estudié **Ingeniería en Mecatrónica** y **Maestría en Sistemas Computacionales**  
 • 🤖 Conecto **Sistemas IT/OT**, trabajando con datos de PLCs, sensores y dashboards  
 • 📈 Actualmente estoy aprendiendo ML avanzado, despliegue de modelos y analítica en tiempo real  
-• 💬 Pregúntame sobre Python, Dashboards, Analítica Predictiva, Limpieza de Datos, Visión por Computadora, Inteligencia Artificial  
+• 💬 Pregúntame sobre Python, Dashboards, Analítica predictiva, Limpieza de datos, Visión por Computadora, Inteligencia Artificial  
 • 📫 Contáctame: [LinkedIn](https://linkedin.com/in/emmanuel-data-science) • emmanuel.mec@gmail.com  
 
 ---
