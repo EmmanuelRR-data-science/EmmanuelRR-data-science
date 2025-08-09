@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, Soy Emmanuel Ramírez Romero</h1>
+<h1 align="center">✌️ Hola, Soy Emmanuel Ramírez Romero</h1>
 
 <p align="center">
   🚀 Ciencia de datos | Python • ML • Automatización • Power BI  
