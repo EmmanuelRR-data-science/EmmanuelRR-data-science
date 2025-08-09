@@ -39,6 +39,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0D5D98)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
 
 ### 🔌 Automatización, IoT y Desarrollo para la industria
