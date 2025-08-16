@@ -62,7 +62,7 @@
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a> |
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="60" height="60"/>
+    <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="90" height="90"/>
   </a> |
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
@@ -71,7 +71,7 @@
     <img src="https://docs.streamlit.io/logo.svg" alt="streamlit" width="40" height="40"/>
   </a> |
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="90" height="90"/>
   </a> |
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
@@ -80,22 +80,33 @@
 
 --
 
-### 🔌 Automatización, IoT y Desarrollo para la industria
+### Control de versiones y despliegue
 <p align="left">
-<a href="https://nodered.org/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
+  </a> |
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
+  </a> |
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker" width="60" height="40"/>
+  </a>
+</p>
+
+--
+
+### 🔌 Automatización, IoT e Integración IT/OT
+<p align="left">
+  <a href="https://nodered.org/" target="_blank" rel="noreferrer">
   <img src="assets/icons/node-red-icon-2.svg" alt="node-red" width="40" height="40"/>
+  </a> |
+<a href="https://mqtt.org/" target="_blank" rel="noreferrer">
+  <img src="assets/icons/mqtt-ver.svg" alt="MQTT" width="40" height="40"/>
 </a> |
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry-pi" width="40" height="40"/>
   </a> |
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> |
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
-
+  
 ---
 
 ## 📈 Estadísticas de GitHub
