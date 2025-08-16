@@ -82,9 +82,9 @@
 
 ### 🔌 Automatización, IoT y Desarrollo para la industria
 <p align="left">
-  <a href="assets/icons/node-red.svg" target="_blank" rel="noreferrer">
-    <img src="assets/icons/node-red.svg" alt="node-red" width="40" height="40"/>
-  </a> |
+<a href="https://nodered.org/" target="_blank" rel="noreferrer">
+  <img src="assets/icons/node-red.svg" alt="node-red" width="40" height="40"/>
+</a> |
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry-pi" width="40" height="40"/>
   </a> |
