@@ -1,7 +1,7 @@
 <h1 align="center">✌️ Hola, Soy Emmanuel Ramírez Romero</h1>
 
 <p align="center">
-  🚀 Ciencia de datos | Python • ML • Automatización • Power BI  
+  🚀 Ciencia de Datos | Python • ML • Automatización • Power BI  
   🎓 Profesional en Mecatrónica y en Sistemas Computacionales | Ubicado en Almoloya, Hidalgo 🇲🇽
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-• 🚀 Soy **Científico de datos**, enfocado en aplicaciones reales  
+• 🚀 Soy **Científico de Datos**, enfocado en aplicaciones reales  
 • 🎓 Estudié **Ingeniería en Mecatrónica** y **Maestría en Sistemas Computacionales**  
 • 🤖 Conecto **Sistemas IT/OT**, trabajando con datos de PLCs, sensores y dashboards  
 • 📈 Actualmente estoy aprendiendo ML avanzado, despliegue de modelos y analítica en tiempo real  
@@ -18,36 +18,83 @@
 
 ---
 
-## ⚒️ Tecnologías
+## 🧰 Tecnologías
 
 ### 🧠 Lenguajes, Bases de Datos y Ciencia de Datos
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a> |
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a> |
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a> |
+  <a href="assets/icons/influxdb.svg" target="_blank" rel="noreferrer">
+    <img src="assets/icons/influxdb.svg" alt="influxdb" width="40" height="40"/>
+  </a> |
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a> |
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a> |
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a> |
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://keras.io/img/logo-small.png" alt="keras" width="60" height="40"/>
+  </a> |
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
+--
 
 ### 📊 Visualización y Dashboards
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  </a> |
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  </a> |
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="60" height="60"/>
+  </a> |
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
+  </a> |
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://docs.streamlit.io/logo.svg" alt="streamlit" width="40" height="40"/>
+  </a> |
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="60" height="60"/>
+  </a> |
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+</p>
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C)
-![Seaborn](https://img.shields.io/badge/-Seaborn-0D5D98)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+--
 
 ### 🔌 Automatización, IoT y Desarrollo para la industria
-
-![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=nodered&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C7053D?style=flat&logo=raspberrypi)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+<p align="left">
+  <a href="assets/icons/node-red.svg" target="_blank" rel="noreferrer">
+    <img src="assets/icons/node-red.svg" alt="node-red" width="40" height="40"/>
+  </a> |
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry-pi" width="40" height="40"/>
+  </a> |
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a> |
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
@@ -63,7 +110,6 @@
 ## 💡 Intereses
 
 Me apasiona especialmente aplicar la ciencia de datos en:
-
 
 - 📈 **Optimización de negocios con IA**
 - 🌐 **Dashboards en tiempo real e integración IT/OT**
