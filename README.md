@@ -52,9 +52,6 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/>
   </a> |
-  <a href="https://yolov8.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/YOLO_logo.png" alt="YOLO" width="40" height="40"/>
-  </a> |
 </p>
 
 --
@@ -81,7 +78,7 @@
   </a> |
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  </a>
+  </a> |
 </p>
 
 --
@@ -96,7 +93,7 @@
   </a> |
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker" width="60" height="40"/>
-  </a>
+  </a> |
 </p>
 
 --
