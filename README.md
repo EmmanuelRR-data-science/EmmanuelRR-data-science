@@ -48,7 +48,13 @@
   </a> |
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
+  </a> |
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/>
+  </a> |
+  <a href="https://yolov8.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/YOLO_logo.png" alt="YOLO" width="40" height="40"/>
+  </a> |
 </p>
 
 --
@@ -98,13 +104,13 @@
 ### 🔌 Automatización, IoT e Integración IT/OT
 <p align="left">
   <a href="https://nodered.org/" target="_blank" rel="noreferrer">
-  <img src="assets/icons/node-red-icon-2.svg" alt="node-red" width="40" height="40"/>
+  <img src="assets/icons/node-red-icon-2.svg" alt="node-red" width="70" height="70"/>
   </a> |
 <a href="https://mqtt.org/" target="_blank" rel="noreferrer">
-  <img src="assets/icons/mqtt-ver.svg" alt="MQTT" width="40" height="40"/>
+  <img src="assets/icons/mqtt-ver.svg" alt="MQTT" width="80" height="80"/>
 </a> |
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry-pi" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry-pi" width="70" height="70"/>
   </a> |
   
 ---
